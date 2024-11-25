@@ -36,7 +36,7 @@ O Reino de Mythralis era uma terra pacífica até que criaturas malignas emergir
 
 ---
 
-##🎮 Controles no Jogo
+## 🎮 Controles no Jogo
 
 Durante o combate:
 1 ou Atacar: Realize um ataque ao inimigo.
@@ -45,7 +45,7 @@ Durante o combate:
 
 ---
 
-##🛡️ Estrutura do Projeto
+## 🛡️ Estrutura do Projeto
 **Hero**: Classe base para heróis, com métodos para combate, defesa, e gerenciamento de status.
 Subclasses:
 **Knight**: Herói com bônus de armadura.
@@ -56,7 +56,7 @@ Subclasses:
 
 ---
 
-##📚 Próximos Passos
+## 📚 Próximos Passos
 -Implementar habilidades especiais para todas as classes.
 -Introduzir mais tipos de inimigos e chefes.
 -Adicionar um sistema de inventário e itens.
@@ -64,12 +64,12 @@ Subclasses:
 
 ---
 
-##🖥️ Pré-requisitos
+## 🖥️ Pré-requisitos
 Python 3.7+ instalado no sistema.
 
 ---
 
-##🤝 Contribuindo
+## 🤝 Contribuindo
 Contribuições são bem-vindas! Abra uma issue para relatar problemas ou envie um pull request para propor melhorias.
 
 1. Faça um fork do repositório.
@@ -81,12 +81,12 @@ Contribuições são bem-vindas! Abra uma issue para relatar problemas ou envie 
 
 ---
 
-##📝 Licença
+## 📝 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 ---
 
-##🤝 Agradecimentos
+## 🤝 Agradecimentos
 Agradecemos a todos que ajudaram a tornar este projeto possível, incluindo desenvolvedores, testadores e jogadores!
 
 ---
