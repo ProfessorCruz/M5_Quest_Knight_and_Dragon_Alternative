@@ -31,7 +31,8 @@ O Reino de Mythralis era uma terra pacífica até que criaturas malignas emergir
    git clone https://github.com/seu-usuario/mythralis-rpg.git
 2. Navegue para o diretório do projeto:
    cd mythralis-rpg
-3. python main.py
+3. Execute o jogo:
+   python main.py
 
 ---
 
@@ -56,10 +57,10 @@ Subclasses:
 ---
 
 ##📚 Próximos Passos
-Implementar habilidades especiais para todas as classes.
-Introduzir mais tipos de inimigos e chefes.
-Adicionar um sistema de inventário e itens.
-Expandir a narrativa com múltiplos caminhos e finais.
+-Implementar habilidades especiais para todas as classes.
+-Introduzir mais tipos de inimigos e chefes.
+-Adicionar um sistema de inventário e itens.
+-Expandir a narrativa com múltiplos caminhos e finais.
 
 ---
 
